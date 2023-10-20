@@ -1,0 +1,6 @@
+name: pulumiproject
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Pulumi project for developing infrastructure as code
